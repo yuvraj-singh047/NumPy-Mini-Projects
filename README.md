@@ -16,9 +16,12 @@ These projects helped me learn **NumPy basics, Boolean Masking, Array Manipulati
 - Calculates total sales, average daily sales, highest and lowest sale days.
 - Normalizes sales data and lists days with high sales using Boolean Masking.
 
-### ✅ Project 3: Image Simulator
-- Will simulate a grayscale image using random pixel intensities.
-- Will apply photo-negative effects and analyze image brightness.
+### ✅ Project 3: Image Simulator (Grayscale Matrix Project)
+- Simulates a grayscale image using a 10x10 random matrix of pixel intensities (0-255).
+- Calculates average, max, and min brightness.
+- Applies a photo-negative effect (inverts image).
+- Uses Boolean Masking to count high-brightness pixels (>200).
+
 
 ---
 
