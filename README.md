@@ -16,7 +16,7 @@ These projects helped me learn **NumPy basics, Boolean Masking, Array Manipulati
 - Calculates total sales, average daily sales, highest and lowest sale days.
 - Normalizes sales data and lists days with high sales using Boolean Masking.
 
-### ✅ Project 3: Image Simulator (Coming Soon...)
+### ✅ Project 3: Image Simulator
 - Will simulate a grayscale image using random pixel intensities.
 - Will apply photo-negative effects and analyze image brightness.
 
